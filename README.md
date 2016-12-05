@@ -1,6 +1,6 @@
 # html5-dev-scaffold
 
-构建工具使用gulp；css使用sass、autoprefixer；基于gulp-connect的前端api测试数据；html5模板页；详细请手gulpfile.js文件配置。
+构建工具使用gulp；css使用sass、autoprefixer；基于gulp-connect的前端api测试数据；html5模板页；详细请看gulpfile.js文件配置。
 
 ## 编译css
 
